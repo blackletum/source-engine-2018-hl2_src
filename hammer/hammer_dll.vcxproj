@@ -411,6 +411,7 @@
     <ClInclude Include="TextureWindow.h" />
     <ClInclude Include="TitleWnd.h" />
     <ClInclude Include="Tooldefs.h" />
+    <ClInclude Include="..\public\maya\valveMaya\Undo.h" />
     <ClInclude Include="VGuiWnd.h" />
     <ClInclude Include="ViewerSettings.h" />
     <ClInclude Include="VisGroup.h" />

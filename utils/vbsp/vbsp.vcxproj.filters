@@ -110,6 +110,9 @@
     <ClInclude Include="..\common\cmdlib.h">
       <Filter>Header Files\Common header files</Filter>
     </ClInclude>
+    <ClInclude Include="disp_ivp.h">
+      <Filter>Header Files\Common header files</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\public\filesystem.h">
       <Filter>Header Files\Common header files</Filter>
     </ClInclude>
@@ -123,6 +126,9 @@
       <Filter>Header Files\Common header files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\public\tier1\interface.h">
+      <Filter>Header Files\Common header files</Filter>
+    </ClInclude>
+    <ClInclude Include="ivp.h">
       <Filter>Header Files\Common header files</Filter>
     </ClInclude>
     <ClInclude Include="..\common\map_shared.h">
@@ -298,6 +304,9 @@
     <ClCompile Include="..\..\public\disp_common.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="disp_ivp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\public\disp_powerinfo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -308,6 +317,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="glfile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ivp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="leakfile.cpp">

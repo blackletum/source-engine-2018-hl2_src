@@ -434,6 +434,9 @@
     <ClInclude Include="..\..\public\optimize.h">
       <Filter>Shared Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\public\phonemeextractor\phonemeextractor.h">
+      <Filter>Shared Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\public\phyfile.h">
       <Filter>Shared Header Files</Filter>
     </ClInclude>

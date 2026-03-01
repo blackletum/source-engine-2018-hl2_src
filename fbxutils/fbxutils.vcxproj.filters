@@ -14,12 +14,24 @@
   <ItemGroup>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\public\fbxutils\dmfbxserializer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\fbxsystem\fbxsystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\fbxsystem\ifbxsystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\common\debug_lib_check.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="dmfbxserializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\public\fbxsystem\fbxsystem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

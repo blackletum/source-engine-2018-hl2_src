@@ -58,25 +58,25 @@ $Project "bspzip"
 	"utils\bspzip\bspzip.vpc" [$WIN32]
 }
 
-$Project "bugreporter"
-{
-	"utils\bugreporter\bugreporter.vpc" [$WIN32]
-}
+//$Project "bugreporter"
+//{
+//	"utils\bugreporter\bugreporter.vpc" [$WIN32]
+//}
 
-$Project "bugreporter_public"
-{
-	"utils\bugreporter_public\bugreporter_public.vpc" [$WINDOWS||$POSIX]
-}
+//$Project "bugreporter_public"
+//{
+//	"utils\bugreporter_public\bugreporter_public.vpc" [$WINDOWS||$POSIX]
+//}
 
-$Project "bugreporter_text"
-{
-	"utils\bugreporter_text\bugreporter_text.vpc" [$WIN32]
-}
+//$Project "bugreporter_text"
+//{
+//	"utils\bugreporter_text\bugreporter_text.vpc" [$WIN32]
+//}
 
-$Project "bugreporter_filequeue"
-{
-	"utils\bugreporter_filequeue\bugreporter_filequeue.vpc" [$WINDOWS||$POSIX]
-}
+//$Project "bugreporter_filequeue"
+//{
+//	"utils\bugreporter_filequeue\bugreporter_filequeue.vpc" [$WINDOWS||$POSIX]
+//}
 
 $Project "bzip2"
 {
@@ -1781,7 +1781,7 @@ $Project "ZipAlign"
 //	"socketlib/socketlib.vpc" [$WINDOWS]
 //}
 
-//$Project "zlib"
-//{
-//   "thirdparty\zlib-1.2.5\zlib.vpc" [$WINDOWS]
-//}
+$Project "zlib"
+{
+    "thirdparty\zlib-1.2.5\zlib.vpc" [$WINDOWS]
+}

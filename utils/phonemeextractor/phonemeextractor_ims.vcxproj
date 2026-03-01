@@ -228,6 +228,7 @@
     <ClInclude Include="..\..\public\appframework\IAppSystem.h" />
     <ClInclude Include="..\..\public\mathlib\mathlib.h" />
     <ClInclude Include="..\..\public\phonemeconverter.h" />
+    <ClInclude Include="..\..\public\phonemeextractor\phonemeextractor.h" />
     <ClInclude Include="..\..\public\tier0\platform.h" />
     <ClInclude Include="..\..\public\tier0\protected_things.h" />
     <ClInclude Include="..\..\public\sentence.h" />

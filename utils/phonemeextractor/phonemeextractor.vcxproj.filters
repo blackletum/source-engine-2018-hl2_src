@@ -65,6 +65,9 @@
     <ClInclude Include="..\..\public\phonemeconverter.h">
       <Filter>Public Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\public\phonemeextractor\phonemeextractor.h">
+      <Filter>Public Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\public\tier0\platform.h">
       <Filter>Public Header Files</Filter>
     </ClInclude>

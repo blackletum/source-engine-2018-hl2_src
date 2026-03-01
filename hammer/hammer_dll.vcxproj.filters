@@ -620,6 +620,9 @@
     <ClInclude Include="Tooldefs.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\public\maya\valveMaya\Undo.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
     <ClInclude Include="VGuiWnd.h">
       <Filter>Source Files</Filter>
     </ClInclude>

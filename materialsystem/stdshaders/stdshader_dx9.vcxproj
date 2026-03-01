@@ -2043,6 +2043,8 @@
     <None Include="..\..\devtools\bin\checkshaderchecksums.pl" />
     <None Include="..\..\devtools\bin\copyshaders.pl" />
     <None Include="..\..\devtools\bin\fxc_prep.pl" />
+    <None Include="..\..\devtools\bin\p4autocheckout.pl" />
+    <None Include="..\..\devtools\bin\p4revertshadertargets.pl" />
     <None Include="..\..\devtools\bin\psh_prep.pl" />
     <None Include="..\..\devtools\bin\updateshaders.pl" />
     <None Include="..\..\devtools\bin\valve_perl_helpers.pl" />

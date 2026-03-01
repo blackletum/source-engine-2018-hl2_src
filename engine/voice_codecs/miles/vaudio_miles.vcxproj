@@ -225,6 +225,7 @@
     <ClInclude Include="..\..\..\public\tier1\interface.h" />
     <ClInclude Include="..\..\..\public\vaudio\ivaudio.h" />
     <ClInclude Include="milesbase.h" />
+    <ClInclude Include="..\..\..\common\miles\mss.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\common\debug_dll_check.cpp">

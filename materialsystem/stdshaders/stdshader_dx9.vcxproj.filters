@@ -1708,6 +1708,12 @@
     <None Include="..\..\devtools\bin\fxc_prep.pl">
       <Filter></Filter>
     </None>
+    <None Include="..\..\devtools\bin\p4autocheckout.pl">
+      <Filter></Filter>
+    </None>
+    <None Include="..\..\devtools\bin\p4revertshadertargets.pl">
+      <Filter></Filter>
+    </None>
     <None Include="..\..\devtools\bin\psh_prep.pl">
       <Filter></Filter>
     </None>

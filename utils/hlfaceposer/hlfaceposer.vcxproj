@@ -353,6 +353,7 @@
     <ClInclude Include="..\..\public\networkvar.h" />
     <ClInclude Include="..\..\game\shared\npcevent.h" />
     <ClInclude Include="..\..\public\optimize.h" />
+    <ClInclude Include="..\..\public\phonemeextractor\phonemeextractor.h" />
     <ClInclude Include="..\..\public\phyfile.h" />
     <ClInclude Include="..\common\physdll.h" />
     <ClInclude Include="..\hlmv\physmesh.h" />

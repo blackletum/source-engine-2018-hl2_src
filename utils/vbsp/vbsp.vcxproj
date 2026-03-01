@@ -248,11 +248,13 @@
     <ClInclude Include="..\..\public\builddisp.h" />
     <ClInclude Include="..\..\public\ChunkFile.h" />
     <ClInclude Include="..\common\cmdlib.h" />
+    <ClInclude Include="disp_ivp.h" />
     <ClInclude Include="..\..\public\filesystem.h" />
     <ClInclude Include="..\..\public\filesystem_helpers.h" />
     <ClInclude Include="..\common\FileSystem_Tools.h" />
     <ClInclude Include="..\..\public\GameBSPFile.h" />
     <ClInclude Include="..\..\public\tier1\interface.h" />
+    <ClInclude Include="ivp.h" />
     <ClInclude Include="..\common\map_shared.h" />
     <ClInclude Include="..\common\pacifier.h" />
     <ClInclude Include="..\common\polylib.h" />
@@ -312,10 +314,12 @@
     <ClCompile Include="detail.cpp" />
     <ClCompile Include="detailObjects.cpp" />
     <ClCompile Include="..\..\public\disp_common.cpp" />
+    <ClCompile Include="disp_ivp.cpp" />
     <ClCompile Include="..\..\public\disp_powerinfo.cpp" />
     <ClCompile Include="disp_vbsp.cpp" />
     <ClCompile Include="faces.cpp" />
     <ClCompile Include="glfile.cpp" />
+    <ClCompile Include="ivp.cpp" />
     <ClCompile Include="leakfile.cpp" />
     <ClCompile Include="..\..\public\loadcmdline.cpp" />
     <ClCompile Include="..\..\public\lumpfiles.cpp" />
